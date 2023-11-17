@@ -1,8 +1,6 @@
 <h1 align="center">Bonjour 👋, je m'appelle SarCraft</h1>
 <h3 align="center">Développeur Junior Fullstack passionné en France</h3>
 
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=sarcraft&label=Profile%20views&color=0e75b6&style=flat" alt="sarcraft" /> </p>
-
 - 💻 Je travaille actuellement sur **>_myStudentProject**
 
 - 📖 J'apprends actuellement **Next.js / React / Typescipt / TailwindCSS**
