@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, je m'appelle SarCraft</h1>
+<h1 align="center">Bonjour 👋, je m'appelle Henaux Nathan</h1>
 <h3 align="center">Développeur Junior Fullstack passionné en France</h3>
 
 - 💻 Je travaille actuellement sur **>_myStudentProject**
@@ -7,9 +7,7 @@
 
 - 📚 Je suis actuellement étudiant à [Colbert](https://www.lyceecolbert-tg.org/)
 
-- 💬 Me poser des questions sur **Développement Fullstack**
-
-- 📫 Comment me joindre **nathan.henaux30@gmail.com**
+- 📫 Comment me joindre: Email **nathan.henaux30@gmail.com** Discord **sarcraft**
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
