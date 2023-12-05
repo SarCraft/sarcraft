@@ -7,7 +7,7 @@
 
 - 📚 Je suis actuellement étudiant à [Colbert](https://www.lyceecolbert-tg.org/)
 
-- 📫 Comment me joindre: Email **nathan.henaux30@gmail.com** Discord **sarcraft**
+- 📫 Comment me joindre: Email **nathan.henaux30@gmail.com** Discord **sarcraft** [Portfolio](https://henauxnathan.vercel.app/)
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
