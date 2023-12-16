@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je m'appelle Henaux Nathan</h1>
-<h3 align="center">Développeur Junior Fullstack passionné en France</h3>
+<h3 align="center">Développeur Junior Fullstack passionné</h3>
 
 - 💻 Je travaille actuellement sur **>_myStudentProject**
 
