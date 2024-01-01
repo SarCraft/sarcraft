@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, je m'appelle Henaux Nathan</h1>
 <h3 align="center">Développeur Junior Fullstack passionné</h3>
 
-- 💻 Je travaille actuellement sur **>_myStudentProject**
+- 💻 Je travaille actuellement sur **BetterTierList** et **>_myStudentProject**
 
 - 📖 J'apprends actuellement **Next.js / React / Typescipt / TailwindCSS**
 
