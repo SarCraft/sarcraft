@@ -1,11 +1,11 @@
 <h1 align="center">Bonjour 👋, je m'appelle Henaux Nathan</h1>
 <h3 align="center">Développeur Junior Fullstack passionné</h3>
 
-- 💻 Je travaille actuellement sur **BetterTierList** et **>_myStudentProject**
+- 💻 Je travaille actuellement sur **Mystic MCBE** et **>_myStudentProject**
 
 - 📖 J'apprends actuellement **Next.js / React / Typescipt / TailwindCSS**
 
-- 📚 Je suis actuellement étudiant à [Colbert](https://www.lyceecolbert-tg.org/)
+- 📚 Je suis actuellement étudiant à [ESGI](https://www.esgi.fr/)
 
 - 📫 Comment me joindre: Email **nathan.henaux30@gmail.com** Discord **sarcraft** [Portfolio](https://henauxnathan.vercel.app/)
 
