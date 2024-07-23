@@ -5,7 +5,7 @@
 
 - 📖 J'apprends actuellement **Next.js / React / Typescipt / TailwindCSS** et **Angular**
 
-- 📚 Je suis actuellement étudiant à [ESGI](https://www.esgi.fr/)
+- 📚 Je suis actuellement étudiant à [ESGI](https://www.esgi.fr/) en alternance dans l'entreprise de l'[ADEP](https://www.adep-roubaix.fr)
 
 - 📫 Comment me joindre: Email **nathan.henaux30@gmail.com** Discord **sarcraft** [Portfolio](https://henauxnathan.vercel.app/)
 
