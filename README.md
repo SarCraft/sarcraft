@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, je m'appelle Henaux Nathan</h1>
 <h3 align="center">Développeur Fullstack Junior passionné</h3>
 
-- 💻 Je travaille actuellement sur **>_myStudentProject** et d'autres projet annexe afin d'apprendre certaine compétences.
+- 💻 Je travaille actuellement sur **Foxin-Bedrock** et d'autres projet annexe afin d'apprendre certaine compétences.
 
 - 📖 J'apprends actuellement **Next.js / React / Typescipt / TailwindCSS** et **Angular**
 
