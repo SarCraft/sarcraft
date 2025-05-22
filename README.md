@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, je m'appelle Henaux Nathan</h1>
+<h1 align="center">Bonjour 👋,</h1>
 <h3 align="center">Développeur Fullstack Junior passionné</h3>
 
 - 💻 Je travaille actuellement sur **Foxin-Bedrock** et d'autres projet annexe afin d'apprendre certaine compétences.
